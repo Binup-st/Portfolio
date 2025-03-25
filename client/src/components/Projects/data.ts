@@ -17,10 +17,10 @@ export const data = [
   },
   {
     id: 2,
-    title: "PopcornPicks",
+    title: "Colours",
     description:
       "Colour is a product listing web application built using Next.js, designed to showcase and manage products efficiently. It offers a clean UI for browsing and interacting with product details. The project is deployed on Vercel for seamless accessibility.",
-    thumbnail: "/assets/colour.png",
+    thumbnail: "assets/color.png",
     url: "https://colour-deploy.vercel.app/",
   },
 ];
