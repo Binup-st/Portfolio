@@ -1,9 +1,9 @@
 type dataType = {
-    id:number
-    name: string
-    category: string
-    proficiency: number
-}
+  id: number;
+  name: string;
+  category: string;
+  proficiency: number;
+};
 
 export const data: dataType[] = [
   {
@@ -41,5 +41,11 @@ export const data: dataType[] = [
     name: "TypeScript",
     category: "Backend",
     proficiency: 75,
+  },
+  {
+    id: 6,
+    name: "Next.js",
+    category: "Frontend",
+    proficiency: 70,
   },
 ];
