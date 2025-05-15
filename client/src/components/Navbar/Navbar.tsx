@@ -148,7 +148,10 @@ export default function Navbar() {
       </div>
 
       {/* DOWNLOAD CV */}
-      <a href="/assets/Binup-Chaudhary-CV.pdf" download="Binup-Chaudhary-CV.pdf">
+      <a
+        href="/assets/Binup-Chaudhary-CV.pdf"
+        download="Binup-Chaudhary-CV.pdf"
+      >
         <button className="bg-seaSalt rounded-full px-3 py-2 text-md font-semibold cursor-pointer">
           Download CV
         </button>
@@ -159,7 +162,7 @@ export default function Navbar() {
           <FaInstagram className="w-6 h-6 hover:text-white cursor-pointer" />
         </a>
         <a
-          href="https://www.linkedin.com/in/binup-chaudhary-4b2161308/"
+          href="https://www.linkedin.com/in/binup-chaudhary-56966035b/"
           target="_blank"
         >
           <FaLinkedin className="w-6 h-6 hover:text-white cursor-pointer" />
